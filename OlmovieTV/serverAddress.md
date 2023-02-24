@@ -1,1 +1,7 @@
-{"imgs_address": "http://amfangYahoo.github.io/OlmovieTV", "videos_address":"http://amfangYahoo.github.io/OlmovieTV/allVideos.md", "tvs_address":"http://amfangYahoo.github.io/OlmovieTV/allTvs.md", "adImg_address":"http://amfangYahoo.github.io/OlmovieTV/olmovietv_ad_pay_new.png", "latest_version":"18", "accessLog_address":"http://35.79.21.43/OlmovieTV", "latest_apkurl":"https://olmovietv.s3.ap-northeast-1.amazonaws.com/OlmovieTV_1.6.8.apk", "BKLatest_apkurl":"http://yjonline.vaiwan.com/yyonline/OlmovieTV_1.6.8.apk"}
+{"imgs_address": "http://amfangYahoo.github.io/OlmovieTV", "
+videos_address":"http://amfangYahoo.github.io/OlmovieTV/allVideos.md", "
+tvs_address":"http://amfangYahoo.github.io/OlmovieTV/allTvs.md", "
+adImg_address":"http://amfangYahoo.github.io/OlmovieTV/olmovietv_ad_pay_new.png", "latest_version":"18", "
+accessLog_address":"http://www.yyonline.tk/OlmovieTV", "
+latest_apkurl":"https://olmovietvnew.s3.ap-northeast-1.amazonaws.com/OlmovieTV_1.6.8.apk", "
+BKLatest_apkurl":"http://yjonline.vaiwan.com/yyonline/OlmovieTV_1.6.8.apk"}
