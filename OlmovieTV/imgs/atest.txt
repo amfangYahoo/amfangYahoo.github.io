@@ -1,1 +1,3 @@
 new testing local spider info, then locally remote upload img and upload github - 20230420
+seemed not upload successfully?
+change to subprocess.call()
