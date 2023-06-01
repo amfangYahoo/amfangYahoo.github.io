@@ -1,0 +1,1 @@
+{"imgs_address": "http://angles_amfang.gitee.io/olmovietv", "adImg_address":"http://angles_amfang.gitee.io/olmovietv/olmovietv_ad_pay_new.png", "latest_version":"1", "server_address":"http://www.yyonline.tk", "latest_apkurl":"https://appapks.s3.ap-northeast-1.amazonaws.com/HBApp_latest.apk", "BKLatest_apkurl":"http://www.yyonline.tk/yyonline/HBApp_latest.apk"}
